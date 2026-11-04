@@ -1,0 +1,3 @@
+FCFS: 1669645 cilindros
+SCAN: 8998 cilindros
+C_SCAN: 9995 cilindros
